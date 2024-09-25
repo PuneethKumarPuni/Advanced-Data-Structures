@@ -49,8 +49,9 @@ The main function demonstrates the following operations:
 3. Display the current state of the queue.
 4. Dequeue an element and display the queue again.
 
-- Queue elements:
-- 10 20 30 
-- Dequeued: 10
-- Queue elements:
-- 20 30
+## OUT PUT :
+ Queue elements:
+ 10 20 30 
+ Dequeued: 10
+ Queue elements:
+ 20 30
