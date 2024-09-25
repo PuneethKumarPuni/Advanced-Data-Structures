@@ -51,7 +51,11 @@ The main function demonstrates the following operations:
 
 ## OUT PUT :
  Queue elements:
+
  10 20 30 
+
  Dequeued: 10
+
  Queue elements:
+ 
  20 30
