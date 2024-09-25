@@ -2,8 +2,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 // Define the size of the stack
 #define SIZE 4 
+
 
 // Global variables: top keeps track of the top of the stack, inp_array is the array that stores stack elements
 int top = -1, inp_array[SIZE]; 
